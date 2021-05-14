@@ -5,7 +5,7 @@ import { useSpring, animated } from "react-spring/three";
 import * as THREE from "three/src/Three";
 import reactLogo from './Assets/reactLogo.png'
 import nodeLogo from './Assets/nodeLogo.png'
-import coding from './Assets/coding.png'
+import coding from './Assets/mapbox.png'
 import Olanrewaju from './Olanrewaju'
 
 softShadows();

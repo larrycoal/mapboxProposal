@@ -4,8 +4,8 @@ const Olanrewaju = () => {
   return (
     <>
       <div className="heading">
-        <span>hi chaka. heard you in need of a </span>
-        <span>FULLSTACK Developer</span>
+        <span>hi MapBox. heard you in need of a </span>
+        <span>FRONTEND Developer</span>
         <p>
           well look no further i got you covered. my name is OLAYIWOLA
           Olanrewaju and i am here to fill that position armed with React
